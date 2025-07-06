@@ -1,5 +1,5 @@
 {
-    "name": "ovsi/minecraft-rcon",
+    "name": "vovsi/minecraft-rcon",
     "description": "Library with RCON commands for Minecraft server.",
     "keywords": ["rcon", "minecraft"],
     "type": "library",
