@@ -9,12 +9,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ovsi\\MinecraftRcon\\": "src/"
+            "Vovsi\\MinecraftRcon\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ovsi\\MinecraftRcon\\Tests\\": "tests/"
+            "Vovsi\\MinecraftRcon\\Tests\\": "tests/"
         }
     },
     "authors": [

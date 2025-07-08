@@ -1,6 +1,6 @@
 <?php
 
-namespace Ovsi\MinecraftRcon;
+namespace Vovsi\MinecraftRcon;
 
 class Rcon extends \Thedudeguy\Rcon
 {
