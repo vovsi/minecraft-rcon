@@ -4,7 +4,7 @@ namespace Vovsi\MinecraftRcon\resources;
 
 use Vovsi\MinecraftRcon\dto\item\GiveDto;
 
-class ItemResource extends BaseService
+class ItemResource extends Resource
 {
     public function give(GiveDto $dto)
     {

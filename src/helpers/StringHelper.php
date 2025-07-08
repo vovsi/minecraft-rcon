@@ -19,6 +19,6 @@ class StringHelper
      * @return string
      */
     public static function sanitizeItemname(string $input): string {
-        return preg_replace('/^minecraft:[a-z0-9_]+(,\s*minecraft:[a-z0-9_]+)*$/', '', $input);
+        return !preg_match('/^minecraft:[a-z0-9_]+$/', $input) ? '' : $input;
     }
 }
