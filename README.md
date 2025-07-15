@@ -5,6 +5,14 @@ A lightweight PHP client around an existing Minecraft RCON client, enriched with
 
 This package is designed to provide a **clean, structured** interface for executing RCON commands on a Minecraft server using PHP.
 
+## Requirements
+
+This package requires:
+
+- PHP **8.4** or higher
+- Minecraft server with RCON enabled
+- Composer
+
 ## Installation
 
 Install via Composer:
